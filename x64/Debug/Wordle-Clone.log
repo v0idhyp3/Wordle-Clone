@@ -1,0 +1,4 @@
+﻿  Wordle-Clone.cpp
+C:\Repos\Wordle-Clone\Wordle-Clone.cpp(11,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Repos\Wordle-Clone\Wordle-Clone.cpp(55,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Wordle-Clone.vcxproj -> C:\Repos\Wordle-Clone\x64\Debug\Wordle-Clone.exe
